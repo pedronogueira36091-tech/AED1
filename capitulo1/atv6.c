@@ -117,7 +117,7 @@ int main() {
     int opcao;
 
     do {
-        printf("\n================ MENU DO SIMULADOR ================\n");
+        printf("\n================ MENU ================\n");
         printf("Estado Atual -> Vida: %d | Pontos: %d\n", vida, pontuacao);
         printf("1. Aplicar Dano (-30)\n");
         printf("2. Restaurar Vida (+15)\n");
